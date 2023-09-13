@@ -35,12 +35,12 @@ export const skills = [
         {
           name: "MATLAB",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg",
         },
         {
           name: "Microsoft Excel",
           image:
-            "https://drive.google.com/file/d/112OP6GD1oIu5jaQ6O8Vv1DiFDnOt9qj0/view?usp=sharing",
+            "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/Excel_Logo.jpg?raw=true",
         },
       ],
   },
@@ -55,37 +55,37 @@ export const skills = [
         {
           name: "MATLAB",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg",
         },
         {
           name: "Jupyter Notebook",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg",
         },
         {
           name: "Numpy",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg",
         },
         {
           name: "Pandas",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg",
         },
         {
           name: "PyTorch",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-plain-wordmark.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg",
         },
         {
           name: "TensorFlow",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg",
         },
         {
           name: "OpenCV",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg",
         },
         
       ],
@@ -96,37 +96,37 @@ export const skills = [
           {
               name: "Proteus",
               image:
-                "https://drive.google.com/file/d/1IxzjAiUf2ibeubpK1vLbm0CHMAxTYipM/view?usp=sharing",
+                "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/Proteus_Logo.png?raw=true",
           },
         {
           name: "LTSpice",
           image:
-            "https://drive.google.com/file/d/1BrrKtFgkX76HQrveLKvZ5liBwLNXUudb/view?usp=sharing",
+            "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/LTSpice_Logo.jpg?raw=true",
         },
         {
           name: "Altium Designer",
           image:
-            "https://drive.google.com/file/d/1u7BLVMr_Lxb7HZsNPJijbiXbvjJLQEHu/view?usp=sharing",
+            "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/Altium_Designer_Logo.png?raw=true",
         },
         {
           name: "Arduino",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg",
         },
         {
           name: "Embedded C",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-plain-wordmark.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/embeddedc/embeddedc-original.svg",
         },
         {
           name: "MikroC Pro",
           image:
-            "https://drive.google.com/file/d/1LXj1xyddnh_lxHXmC1G5KiyMTZv7A-6i/view?usp=sharing",
+            "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/MikroC_Pro_Logo.jpg?raw=true",
         },
         {
           name: "MPLABX IDE",
           image:
-            "https://drive.google.com/file/d/1I9LlYHeIE7yVI1kUWJyPLz2jQrFr03jE/view?usp=sharing",
+            "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/MPLABX_Logo.png?raw=true",
         },
       ],
     },
@@ -136,12 +136,12 @@ export const skills = [
           {
               name: ".NET Framework",
               image:
-                "https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain-wordmark.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg",
           },
           {
               name: "MATLAB",
               image:
-                "https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg",
             },
       ],
     },
@@ -151,17 +151,17 @@ export const skills = [
           {
               name: "C",
               image:
-                "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg",
+                "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
           },
         {
           name: "C++",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg",
         },
         {
           name: "C#",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg",
         },
       ],
     },
@@ -171,17 +171,17 @@ export const skills = [
           {
               name: "Google Cloud Platform",
               image:
-                "https://drive.google.com/file/d/1GKNztPjZpAJenO58emRyqCNPl-yEUCnC/view?usp=sharing",
+                "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/Google_Cloud_Logo.png?raw=true",
           },
         {
           name: "IBM Cloud Platform",
           image:
-            "https://drive.google.com/file/d/11rf18AG0ke5meVyUNDefiMF-yQJrlFXB/view?usp=sharing",
+            "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/IBM_Cloud_Logo.jpeg?raw=true",
         },
         {
           name: "AWS Cloud Platform",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg",
         },
       ],
     },
@@ -205,7 +205,7 @@ export const skills = [
       {
           name: "WordPress",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg",
         },
     ],
   },
@@ -240,17 +240,17 @@ export const skills = [
       {
           name: "Putty",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/putty/putty-original.svg",
         },
       {
         name: "AutoCAD",
         image:
-          "https://drive.google.com/file/d/1yufBIQQ5S08kUV9xoSA4hEJRkKOO6bxq/view?usp=sharing",
+          "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/AutoCAD_Logo.png?raw=true",
       },
       {
           name: "X Code",
           image:
-            "https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg",
+            "https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg",
         },
       {
         name: "VS Code",
@@ -258,20 +258,10 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
       },
       {
-          name: "Visual Studio",
-          image:
-            "https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg",
-        },
-      {
         name: "Canva",
         image:
-          "https://drive.google.com/file/d/1CmXFlUY0NJ-Vg1fcqxpKdFfQFSjbXaj5/view?usp=sharing",
+          "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/Canva_Logo.png?raw=true",
       },
-      {
-          name: "Microsoft Office",
-          image:
-            "https://drive.google.com/file/d/1m5EUlm8-GByLBq0wxFMFTI85CrNNHyq-/view?usp=sharing",
-        },
     ],
   },
 ];
@@ -279,7 +269,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://drive.google.com/file/d/1RT2laor3P1oCP5zsWUFe1tvrS_7xeRsE/view?usp=sharing",
+    img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/CodeClause_Logo.png?raw=true",
     role: "Artificial Intelligence Intern",
     company: "CodeClause",
     date: "Sep 2023 - Present",
@@ -296,11 +286,11 @@ export const experiences = [
       "Time Management",
       "Computer Vision",
     ],
-    doc: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/experience/1635540296747/single-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A",
+    doc: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/documents/Offer-Letter/Offer%20Letter_page-0001.jpg",
   },
   {
     id: 1,
-    img: "https://drive.google.com/file/d/1ghxqKNg-7rALp_LoGuYeD7uxMeWQNPJb/view?usp=sharing",
+    img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/RAC_Logo.jpg?raw=true",
     role: "Team Associate - McLaren Competing Team",
     company: "Robotics and Automation Club - CEME NUST",
     date: "Sep 2023 - Present",
@@ -315,7 +305,7 @@ export const experiences = [
   },
   {
       id: 1,
-      img: "https://drive.google.com/file/d/1ghxqKNg-7rALp_LoGuYeD7uxMeWQNPJb/view?usp=sharing",
+      img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/RAC_Logo.jpg?raw=true",
       role: "Team Associate of Biomedical Team",
       company: "Robotics and Automation Club - CEME NUST",
       date: "Sep 2023 - Present",
@@ -330,7 +320,7 @@ export const experiences = [
     },
     {
       id: 1,
-      img: "https://drive.google.com/file/d/1ghxqKNg-7rALp_LoGuYeD7uxMeWQNPJb/view?usp=sharing",
+      img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/RAC_Logo.jpg?raw=true",
       role: "Team Associate of Artificial Intelligence Team",
       company: "Robotics and Automation Club - CEME NUST",
       date: "Sep 2023 - Present",
@@ -345,7 +335,7 @@ export const experiences = [
     },
   {
     id: 2,
-    img: "https://drive.google.com/file/d/1QAEaRbtxr1jpVt6L6itmmEnLW84KOAxH/view?usp=sharing",
+    img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/CodSoft_Logo.jpeg?raw=true",
     role: "Artificial Intelligence Intern",
     company: "CodSoft",
     date: "Aug 2023 - Present",
@@ -359,11 +349,11 @@ export const experiences = [
       "Data Manipulation",
       "Time Management",
     ],
-    doc: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/experience/1635536696598/single-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A",
+    doc: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/documents/Artificial-Intelligence-Offer-Letter/Artificial%20Intelligence%20Offer%20Letter_page-0001.jpg",
   },
   {
       id: 2,
-      img: "https://drive.google.com/file/d/1QAEaRbtxr1jpVt6L6itmmEnLW84KOAxH/view?usp=sharing",
+      img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/CodSoft_Logo.jpeg?raw=true",
       role: "Machine Learning Intern",
       company: "CodSoft",
       date: "Aug 2023 - Present",
@@ -379,11 +369,11 @@ export const experiences = [
         "Neural Networks",
         "Time Management",
       ],
-      doc: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/experience/1635536696605/single-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A",
+      doc: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/documents/Machine-Learning-Offer-Letter/Machine%20Learning%20Offer%20Letter_page-0001.jpg",
     },
   {
     id: 3,
-    img: "https://drive.google.com/file/d/1VUQED4EuIksSPMZ1gqddxMLZCBpxBUTt/view?usp=sharing",
+    img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/Logo-Yokogawa.jpg?raw=true",
     role: "Engineering Intern",
     company: "Yokogawa",
     date: "July 2023 - Sep 2023",
@@ -404,7 +394,7 @@ export const experiences = [
   },
   {
     id: 4,
-    img: "https://drive.google.com/file/d/12nbgYCPXoTR7IvW1oUO3_BUrVVKEU3no/view?usp=sharing",
+    img: "https://raw.githubusercontent.com/Azlaan20/azlaanranjha.github.io/main/icons/Quantium_Logo.png?raw=true",
     role: "Data Analytics Virtual Intern",
     company: "Quantium",
     date: "Jul 2023 - Aug 2023",
@@ -416,11 +406,11 @@ export const experiences = [
       "Data Analysis",
       "Time Management",
     ],
-    doc: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/experience/1635535819604/single-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A",
+    doc: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/documents/Quantium_Data%20Analytics%20Virtual%20Programme_Completion_Certificate.pdf",
   },
   {
       id: 5,
-      img: "https://drive.google.com/file/d/1ze1lYXGICjEAz7APk9h_iRrC5uVPvpiq/view?usp=sharing",
+      img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/NUSTAG%20Logo.jpeg?raw=true",
       role: "AV Team Member",
       company: "NUSTAG",
       date: "Sep 2022 - Present",
@@ -441,7 +431,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://drive.google.com/file/d/158j4KoQ1NxL3UKezP9uc3foVsJWl7JNv/view?usp=sharing",
+    img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/NUST%20Logo.png?raw=true",
     school: "National University of Sciences and Technology (NUST)",
     date: "Nov 2021 - Aug 2025",
     grade: "3.25 CGPA",
@@ -450,7 +440,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://drive.google.com/file/d/1wxUaWfXfMJZxlfKX3IKTG6qdU0EeRTM1/view?usp=sharing",
+    img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/Beaconhouse%20Logo.jpeg?raw=true",
     school: "Beaconhouse School System, Sargodha Campus",
     date: "Sep 2006 - Jul 2019",
     grade: "5 A* and 4 A in O levels. 1 A* 3 A and 2 B in A levels",
@@ -466,8 +456,6 @@ export const projects = [
     date: "Aug 2023 - Sep 2023",
     description:
       "Developed a foundational chatbot project using OpenAI to respond to user inputs, collaborating on rule definition and ensuring coherent conversation flow.",
-    image:
-      "https://www.linkedin.com/feed/update/urn:li:activity:7103527681786339328/",
     tags: [
       "Chatbot Development",
       "OpenAI",
@@ -483,7 +471,7 @@ export const projects = [
     member: [
       {
         name: "Azlaan Ranjha",
-        img: "https://drive.google.com/file/d/1_Jstrvqu9Fuv5bW-5NDyjkRgWt86ZZZL/view?usp=sharing",
+        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
         linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
       },
       ],
@@ -494,15 +482,13 @@ export const projects = [
     date: "Aug 2023 - Sep 2023",
     description:
       "Developed an AI application for robust face detection and recognition, integrating gender and emotion classification using pre-trained models, showcasing expertise in computer vision and deep learning.",
-    image:
-      "https://www.linkedin.com/feed/update/urn:li:activity:7103498593575010305/",
-    tags: ["AI application", "Face detection", "Face recognition", "Pre-trained models", "Haar cascades", "Deep learning", "Gender classification", "Emotion recognition", "Computer vision", "User interface", "Real-time recognition", "Model optimization"],
+    tags: ["AI application", "Face detection and recognition", "Deep learning", "Gender classification", "Emotion recognition", "Computer vision"],
     category: "Computer Vision and AI Application Development",
     github: "https://github.com/Azlaan20/CODSOFT/tree/main/Face%20Detection%20and%20Recognition",
     member: [
       {
         name: "Azlaan Ranjha",
-        img: "https://drive.google.com/file/d/1_Jstrvqu9Fuv5bW-5NDyjkRgWt86ZZZL/view?usp=sharing",
+        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
         linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
         github: "https://github.com/Azlaan20",
       },
@@ -514,15 +500,13 @@ export const projects = [
     date: "Aug 2023 - Sep 2023",
     description:
       "Developed an intuitive recommendation system using collaborative and content-based filtering techniques, demonstrating proficiency in tailoring recommendations to user preferences across diverse domains.",
-    image:
-      "https://www.linkedin.com/feed/update/urn:li:activity:7103510327123677184/",
     tags: ["Recommendation System", "Collaborative Filtering", "Content-Based Filtering", "User Preferences", "User Interface Design", "Python"],
     category: "Recommendation System Development and User Preferences Analysis",
     github: "https://github.com/Azlaan20/CODSOFT/tree/main/Movie%20Recommendation%20System",
     member: [
       {
         name: "Azlaan Ranjha",
-        img: "https://drive.google.com/file/d/1_Jstrvqu9Fuv5bW-5NDyjkRgWt86ZZZL/view?usp=sharing",
+        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
         linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
       },
       ],
@@ -533,15 +517,13 @@ export const projects = [
     date: "Aug 2023 - Sep 2023",
     description:
       "Created an intelligent Tic-Tac-Toe AI using the Minimax algorithm, showcasing proficiency in game theory and search algorithms, and providing an engaging gaming experience.",
-    image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
     tags: ["Tic-Tac-Toe", "AI Agent", "Minimax Algorithm", "Game Theory", "Search Algorithms", "User Interface Design", "Python"],
     category: "AI Game Development and Game Theory",
     github: "https://github.com/Azlaan20/CODSOFT/tree/main/Tic%20Tac%20Toe%20Game",
     member: [
       {
         name: "Azlaan Ranjha",
-        img: "https://drive.google.com/file/d/1_Jstrvqu9Fuv5bW-5NDyjkRgWt86ZZZL/view?usp=sharing",
+        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
         linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
       },
       ],
@@ -552,9 +534,7 @@ export const projects = [
     date: "Aug 2023 - Aug 2023",
     description:
       "Leveraged NVIDIA Jetson Nano and DeepStream SDK for AI video applications, acquiring hands-on skills and certification, ready for future Edge projects.",
-    image:
-      "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/2111779362/multiple-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A&treasuryMediaId=1635537146460",
-    tags: ["NVIDIA Jetson Nano", "DeepStream SDK", "JupyterLab", "Python", "Deep Learning", "Video Analytics", "Certification", "Edge Computing", "Artificial Intelligence", "Machine Learning", "Computer Vision", "OpenCV", "Data Manipulation", "Neural Networks", "Time Management", "AI Ethics"],
+    tags: ["NVIDIA Jetson Nano", "JupyterLab", "Python", "Deep Learning", "Video Analytics", "Edge Computing", "Computer Vision", "Data Manipulation", "Neural Networks", "Time Management"],
     category: "AI Video Analytics and Edge Computing",
   },
   {
@@ -563,8 +543,6 @@ export const projects = [
     date: "Aug 2023 - Aug 2023",
     description:
       "Developed fundamental computer vision skills, including image manipulation and annotation, using OpenCV and Python, laying a strong foundation for practical applications.",
-    image:
-      "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1305264076/multiple-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A&treasuryMediaId=1635535938679",
     tags: ["Computer Vision", "OpenCV", "Python", "Image Manipulation", "Image Annotation", "Foundational Skills", "Practical Applications", "Machine Learning", "AI Ethics"],
     category: "Computer Vision and Image Processing Fundamentals",
   },
@@ -574,8 +552,6 @@ export const projects = [
     date: "Aug 2023 - Aug 2023",
     description:
       "Developed an advanced credit card fraud detection model utilizing Logistic Regression, Decision Trees, and Random Forests, showcasing expertise in machine learning and data preprocessing in the context of financial security.",
-    image:
-      "https://www.linkedin.com/feed/update/urn:li:activity:7102749109719056386/",
     tags: ["Credit Card Fraud Detection", "Machine Learning", "Logistic Regression", "Decision Trees", "Random Forests", "Data Preprocessing", "Financial Security"],
     category: "Financial Security and Fraud Detection",
     github: "https://github.com/Azlaan20/CODSOFT/tree/main/Credit%20Card%20Fraud",
@@ -586,8 +562,6 @@ export const projects = [
     date: "Aug 2023 - Aug 2023",
     description:
       "Developed a predictive customer churn model using Logistic Regression, Random Forests, and Gradient Boosting, demonstrating proficiency in data-driven insights and predictive modeling for customer retention strategies.",
-    image:
-      "https://www.linkedin.com/feed/update/urn:li:activity:7102760742197575680/",
     tags: ["Customer Churn Prediction", "Predictive Modeling", "Logistic Regression", "Random Forests", "Gradient Boosting", "Feature Engineering", "Data Analysis"],
     category: "Customer Churn Prediction and Predictive Modeling",
     github: "https://github.com/Azlaan20/CODSOFT/tree/main/Customer%20Churn%20Prediction",
@@ -598,8 +572,6 @@ export const projects = [
     date: "Aug 2023 - Aug 2023",
     description:
       "Conducted data preprocessing and utilized SVM with RBF kernel for tumor classification, employing evaluation metrics to assess model performance.",
-    image:
-      "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1635538797687/single-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A",
     tags: ["Data Preprocessing", "Data Visualization", "SVM", "RBF Kernel", "Machine Learning", "Model Evaluation"],
     category: "Tumor Classification and Machine Learning",
   },
@@ -609,8 +581,6 @@ export const projects = [
     date: "Aug 2023 - Aug 2023",
     description:
       "Completed an immersive project with the NVIDIA Deep Learning Institute, acquiring skills in using satellite imagery for disaster risk monitoring and deep learning model construction, in collaboration with UNOSAT.",
-    image:
-      "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1668551862/multiple-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A&treasuryMediaId=1635536422806",
     tags: ["Satellite Imagery", "Deep Learning", "Disaster Risk Monitoring", "Data Manipulation", "Neural Networks", "Machine Learning", "Python", "AI Ethics"],
     category: "Satellite Imagery Analysis and Deep Learning",
   },
@@ -620,8 +590,6 @@ export const projects = [
     date: "Aug 2023 - Aug 2023",
     description:
       "Developed a robust image classification model using convolutional and residual neural networks in Keras and TensorFlow, enhancing accuracy and gaining practical expertise in deep learning.",
-    image:
-      "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/2059981743/multiple-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A&treasuryMediaId=1635537117167",
     tags: ["Image Classification", "Convolutional Neural Networks", "Residual Neural Networks", "Keras", "TensorFlow", "Data Augmentation", "Dropout Regularization", "Deep Learning", "Neural Networks"],
     category: "Image Classification and Deep Learning Model Development",
   },
@@ -631,8 +599,6 @@ export const projects = [
       date: "Aug 2023 - Aug 2023",
       description:
         "Developed Generative Adversarial Networks (GANs) using PyTorch, honing hands-on skills in GAN implementation for lifelike handwritten digit generation.",
-      image:
-        "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1635538805135/single-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A",
       tags: ["Generative Adversarial Networks", "GANs", "PyTorch", "Convolutional Neural Networks", "Optimization Algorithms"],
       category: "Generative Adversarial Networks (GANs) and PyTorch Implementation",
   },
@@ -642,8 +608,6 @@ export const projects = [
       date: "Aug 2023 - Aug 2023",
       description:
         "Embraced an immersive robotics course with the NVIDIA Jetson Nano Developer Kit, gaining hands-on experience and mastering neural networks for diverse AI and robotics tasks.",
-      image:
-        "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/2068848656/multiple-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A&treasuryMediaId=1635537125286",
       tags: ["NVIDIA Jetson Nano", "Robotics", "AI", "Neural Networks", "Deep Learning", "Computer Vision", "OpenCV", "Image Processing"],
       category: "AI and Robotics with NVIDIA Jetson Nano",
   },
@@ -653,8 +617,6 @@ export const projects = [
       date: "Aug 2023 - Aug 2023",
       description:
         "Engaged in a project-centric course, mastering Keras and TensorFlow for image classification, gaining hands-on experience, and boosting confidence in diverse image classification tasks.",
-      image:
-        "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/2040668023/multiple-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A&treasuryMediaId=1635537092788",
       tags: ["Keras", "TensorFlow", "Image Classification", "Neural Networks", "Deep Learning"],
       category: "Image Classification with Keras and TensorFlow",
   },
@@ -664,8 +626,6 @@ export const projects = [
       date: "Aug 2023 - Aug 2023",
       description:
         "Employed TensorFlow and Keras for image classification, achieving a remarkable 96% validation data accuracy, while mastering Convolutional Neural Networks (CNNs) and overfitting mitigation techniques.",
-      image:
-        "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1635535908323/single-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A",
       tags: ["TensorFlow", "Keras", "Image Classification", "Convolutional Neural Networks", "Data Augmentation", "Dropout Regularization"],
       category: "Image Classification with Keras and TensorFlow",
   },
@@ -675,8 +635,6 @@ export const projects = [
       date: "Aug 2023 - Aug 2023",
       description:
         "Focused on mastering Convolutional Neural Networks (CNNs) in the Keras framework with TensorFlow, tackling image classification challenges using a subset of the CIFAR-10 dataset with guidance and mentorship on the Coursera Rhyme platform.",
-      image:
-        "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/2048435907/multiple-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A&treasuryMediaId=1635537101788",
       tags: ["Machine Learning", "Python", "AI/ML Model Deployment", "Image Processing", "TensorFlow", "Keras", "Data Manipulation", "Deep Learning", "Neural Networks", "Time Management", "AI Ethics"],
       category: "Image Classification with Keras and TensorFlow",
   },
@@ -686,8 +644,6 @@ export const projects = [
       date: "Aug 2023 - Aug 2023",
       description:
         "Developed an innovative machine learning model for movie genre prediction using advanced techniques like TF-IDF, word embeddings, and top-tier classifiers, showcasing expertise in merging textual analysis and machine learning.",
-      image:
-        "https://www.linkedin.com/feed/update/urn:li:activity:7102782442108821504/",
       tags: ["Machine Learning", "Text Classification", "Natural Language Processing", "TF-IDF", "Word Embeddings", "Naive Bayes", "Logistic Regression", "Support Vector Machines"],
       category: "Machine Learning",
       github: "https://github.com/Azlaan20/CODSOFT/tree/main/Movie%20Genre%20Classification",
@@ -698,8 +654,6 @@ export const projects = [
       date: "Aug 2023 - Aug 2023",
       description:
         "Established infrastructure and operational framework using Google Cloud Services and Jupyter Notebook, focused on precise baby weight prediction, enabled dynamic model building, employed BigQuery for advanced data evaluation, and achieved success meeting operational criteria. Skills include ML, Python, AI/ML model deployment, TensorFlow, data manipulation, deep learning, neural networks, and time management.",
-      image:
-        "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/2048435907/multiple-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A&treasuryMediaId=1635537101788",
       tags: ["Machine Learning", "Python", "AI/ML Model Deployment", "TensorFlow", "Data Manipulation", "Deep Learning", "Neural Networks", "Time Management"],
       category: "Machine Learning and Data Science",
   },
@@ -719,8 +673,6 @@ export const projects = [
       date: "Aug 2023 - Aug 2023",
       description:
         "Implemented an advanced AI project for SMS classification, using TF-IDF, word embeddings, and machine learning models like Naive Bayes, Logistic Regression, and SVM to effectively detect spam messages.",
-      image:
-        "https://www.linkedin.com/feed/update/urn:li:activity:7102773867345002497/",
       tags: ["Machine Learning", "Text Classification", "Natural Language Processing", "TF-IDF", "Word Embeddings", "Naive Bayes", "Logistic Regression", "Support Vector Machines"],
       category: "Artificial Intelligence (AI) Project for SMS Classification",
       github: "https://github.com/Azlaan20/CODSOFT/tree/main/SMS%20Spam%20Detection",
@@ -731,8 +683,6 @@ export const projects = [
       date: "Aug 2023 - Aug 2023",
       description:
         "Developed expertise in data analysis, visualization, and insights extraction using MATLAB, employing statistical techniques, precise data filtering, and immersive visualizations to enhance skills in data science and analytics.",
-      image:
-        "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1256591001/multiple-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A&treasuryMediaId=1635535916947",
         Tags: ["Data Science", "Data Analysis", "Data Visualization", "MATLAB", "Statistical Techniques", "Data Filtering", "Skills Enhancement", "Machine Learning", "Text Classification", "Natural Language Processing", "TF-IDF", "Word Embeddings", "Naive Bayes", "Logistic Regression", "Support Vector Machines"],
       category: "Data Science and Analytics",
   },
@@ -750,24 +700,25 @@ export const projects = [
       id: 22,
       title: "Sensor-Array Based Line Follower Robot (Arduino UNO)",
       date: "Jul 2023 - Jul 2023",
-      image: "https://drive.google.com/file/d/13R8XBh_klcHmjOmpBSWSZFirvJJmW4wl/view?usp=drive_link",
       description:
         "Team Dedication excelled in the National Engineering Robotics Competition by collaboratively building and coding a Line-Follower Robot, overcoming challenges, optimizing sensors, and enhancing competitive readiness.",
-      tags: ["Robotics", "Engineering Competition", "Line-Follower Robot", "Problem-Solving", "Innovation", "Coding", "Competitive Robotics", "Teamwork", "Leadership", "Electronics", "Circuit Design", "Electrical Engineering", "Microcontroller Programming", "Embedded Systems", "Team Management", "Time Management"],
+      tags: ["Robotics", "Engineering Competition", "Line-Follower Robot", "Coding", "Teamwork", "Leadership", "Microcontroller Programming", "Embedded Systems", "Team Management"],
       category: "Robotics and Engineering Achievement",
       github: "https://github.com/Azlaan20/Arduino_Self_Driving_Car",
       member: [
           {
             name: "Azlaan Ranjha",
-            img: "https://drive.google.com/file/d/1_Jstrvqu9Fuv5bW-5NDyjkRgWt86ZZZL/view?usp=sharing",
+            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
             linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
           },
           {
               name: "Laiba Jabbar",
+              img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Laiba_Jabbar.jpeg?raw=true", 
               linkedin: "https://www.linkedin.com/in/laiba-jabbar-aa1a19233/",
           },
           {
               name: "Muneeb Arshad",
+              img:"https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Muneeb_Arshad.jpeg?raw=true",
               linkedin: "https://www.linkedin.com/in/muneeb-arshad-75a586273/",
           }
       ],
@@ -775,19 +726,19 @@ export const projects = [
   {
       id: 23,
       title: "Active First-Order Op-Amp RC Band Pass Filter",
-      image: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1647102483/multiple-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A&treasuryMediaId=1635530713378",
       description:
         "Designed and simulated a bandpass filter with 12 dB gain and a 3 dB bandwidth from 500 Hz to 10 kHz using LM741 Op-Amp and Multisim software, combining low-pass and high-pass circuits for precise frequency control and validation.",
-      tags: ["Electronics", "Circuit Design", "Electrical Engineering", "Multisim Simulation", "Bandpass Filter", "LM741 Op-Amp", "Frequency Control", "Circuit Simulation", "Low-Pass Circuit", "High-Pass Circuit", "Component Selection", "Validation", "Teamwork", "Leadership", "Project Management", "Time Management"],
+      tags: ["Electronics", "Frequency Control", "Circuit Simulation","Teamwork", "Leadership", "Project Management", "Time Management"],
       category: "Electronics and Circuit Design",        
       member: [
           {
             name: "Azlaan Ranjha",
-            img: "https://drive.google.com/file/d/1_Jstrvqu9Fuv5bW-5NDyjkRgWt86ZZZL/view?usp=sharing",
+            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
             linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
           },
           {
               name: "Laiba Jabbar",
+              img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Laiba_Jabbar.jpeg?raw=true", 
               linkedin: "https://www.linkedin.com/in/laiba-jabbar-aa1a19233/",
           },
       ],
@@ -795,7 +746,6 @@ export const projects = [
   {
       id: 24,
       title: "Arithmetic Logic Unit",
-      image: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1647495074/multiple-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A&treasuryMediaId=1635530707679",
       description:
         " Led a collaborative effort to create a versatile 16-function Arithmetic Logic Unit (ALU) with a 4-bit operand range, utilizing CMOS family chips for physical implementation, and managed a team of three members with expertise in electronics, circuit design, electrical engineering, leadership, teamwork, project management, and time management.",
       tags: ["Electronics", "Circuit Design", "Electrical Engineering", "Proteus Simulation", "Circuit Simulation", "Component Selection", "Validation", "Teamwork", "Leadership", "Project Management", "Time Management"],
@@ -803,15 +753,17 @@ export const projects = [
       member: [
           {
             name: "Azlaan Ranjha",
-            img: "https://drive.google.com/file/d/1_Jstrvqu9Fuv5bW-5NDyjkRgWt86ZZZL/view?usp=sharing",
+            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
             linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
           },
           {
               name: "Bilal Younas Chaudhary",
+              img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Bilal_Younas_Chaudhary.jpeg?raw=true", 
               linkedin: "https://www.linkedin.com/in/bilal-younas-chaudhary-069a22254/",
           },
           {
               name: "Rana Abdullah Azhar",
+              img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Rana_Abdullah_Azhar.jpeg?raw=true",  
               linkedin: "https://www.linkedin.com/in/abdullah-azhar-476699235/",
           },
       ],
@@ -819,17 +771,19 @@ export const projects = [
   {
       id: 25,
       title: "C++ Crossword Puzzle Game with Random Puzzle Generation",
-      image: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1635530713438/single-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A",
       description:
-        "Created an engaging C++ Crossword Puzzle Game with dynamic gameplay, word submission, comprehensive multi-directional word search, and interactive outcome indicators.",        
+        "Created an engaging C++ Crossword Puzzle Game with dynamic gameplay, word submission, comprehensive multi-directional word search, and interactive outcome indicators.",  
+      tags: ["C++", "Crossword Puzzle Game", "Dynamic Gameplay", "Word Submission", "Comprehensive Word Search", "Interactive Indicators", "Leadership", "Teamwork", "Project Management", "Time Management"],
+      category: "Programming Projects",      
       member: [
           {
             name: "Azlaan Ranjha",
-            img: "https://drive.google.com/file/d/1_Jstrvqu9Fuv5bW-5NDyjkRgWt86ZZZL/view?usp=sharing",
+            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
             linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
           },
           {
               name: "Rana Abdullah Azhar",
+              img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Rana_Abdullah_Azhar.jpeg?raw=true",  
               linkedin: "https://www.linkedin.com/in/abdullah-azhar-476699235/",
           },
       ],
@@ -837,21 +791,24 @@ export const projects = [
   {
       id: 26,
       title: "Fixed and Variable Channel Power Supply",
-      image: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1635530712437/single-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A",
       description:
-        "The project aims to create a versatile and efficient dual-channel power supply with fixed and variable voltage options, each providing 1A of continuous current, in a compact design, suitable for a wide range of electronic applications, featuring precise voltage control and user-friendly interface.",   
+        "The project aims to create a versatile and efficient dual-channel power supply with fixed and variable voltage options, each providing 1A of continuous current, in a compact design, suitable for a wide range of electronic applications, featuring precise voltage control and user-friendly interface.",
+      tags: ["Power Supply", "Electronics", "Circuit Design", "Electrical Engineering", "PCB Design", "Leadership", "Team Management", "Project Management", "Time Management"],
+      category: "Electronics and Circuit Design",   
       member: [
           {
             name: "Azlaan Ranjha",
-            img: "https://drive.google.com/file/d/1_Jstrvqu9Fuv5bW-5NDyjkRgWt86ZZZL/view?usp=sharing",
+            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
             linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
           },
           {
               name: "Bilal Younas Chaudhary",
+              img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Bilal_Younas_Chaudhary.jpeg?raw=true", 
               linkedin: "https://www.linkedin.com/in/bilal-younas-chaudhary-069a22254/",
           },
           {
               name: "Rana Abdullah Azhar",
+              img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Rana_Abdullah_Azhar.jpeg?raw=true",  
               linkedin: "https://www.linkedin.com/in/abdullah-azhar-476699235/",
           },
       ],
@@ -859,21 +816,24 @@ export const projects = [
   {
       id: 27,
       title: "Multi-Function Evaluator using PIC18F452",
-      image: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1635530712437/single-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A",
       description:
-        "An embedded masterpiece featuring the potent PIC18F452 microcontroller, excelling in numeric manipulation, multiplayer Tic Tac Toe gaming, AC sine wave generation, personalized security with a 4-digit PIN, efficient keypad input, crystal-clear LCD output, and expert use of MPLABX and MicroC Pro, with a quick reboot option.",   
+        "An embedded masterpiece featuring the potent PIC18F452 microcontroller, excelling in numeric manipulation, multiplayer Tic Tac Toe gaming, AC sine wave generation, personalized security with a 4-digit PIN, efficient keypad input, crystal-clear LCD output, and expert use of MPLABX and MicroC Pro, with a quick reboot option.",
+      tags: ["PIC18F452", "Embedded Systems", "Microcontroller Programming", "Electronics", "Circuit Design", "Electrical Engineering", "MicroC Pro", "MPLAB X", "Leadership", "Team Management", "Project Management", "Time Management"],
+      category: "Embedded Systems and Microcontroller Programming",   
       member: [
           {
             name: "Azlaan Ranjha",
-            img: "https://drive.google.com/file/d/1_Jstrvqu9Fuv5bW-5NDyjkRgWt86ZZZL/view?usp=sharing",
+            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
             linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
           },
           {
               name: "Bilal Younas Chaudhary",
+              img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Bilal_Younas_Chaudhary.jpeg?raw=true", 
               linkedin: "https://www.linkedin.com/in/bilal-younas-chaudhary-069a22254/",
           },
           {
               name: "Rana Abdullah Azhar",
+              img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Rana_Abdullah_Azhar.jpeg?raw=true",  
               linkedin: "https://www.linkedin.com/in/abdullah-azhar-476699235/",
           },
       ],
@@ -881,28 +841,32 @@ export const projects = [
   {
       id: 28,
       title: "Mutual Inductance Metal Detector",
-      image: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1635530712437/single-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A",
       description:
-        "Innovatively designed a Metal Detector Circuit utilizing Mutual Inductance, implemented on a PCB for robust and accurate metal detection, validated through rigorous testing.",   
+        "Innovatively designed a Metal Detector Circuit utilizing Mutual Inductance, implemented on a PCB for robust and accurate metal detection, validated through rigorous testing.",
+      tags: ["Metal Detector", "Mutual Inductance", "Electronics", "Circuit Design", "Electrical Engineering", "PCB Design", "Innovative Design", "Robust Detection", "Accurate Sensing", "Functional Validation", "Time Management"],
+      category: "Electronics and Circuit Design",   
   },
   {
       id: 29,
       title: "Self-Made 5V Constant Voltage Regulator Circuit",
-      image: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1656648039/multiple-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A&treasuryMediaId=1635530711797",
       description:
-        "Engineered a versatile 5V voltage regulator circuit with precise control, resilience to input variations, and real-world applicability through the integration of BJTs, Op-Amps, resistors, capacitors, and potentiometers.",   
+        "Engineered a versatile 5V voltage regulator circuit with precise control, resilience to input variations, and real-world applicability through the integration of BJTs, Op-Amps, resistors, capacitors, and potentiometers.",
+      tags: ["Voltage Regulator Circuit", "Electronics", "Circuit Design", "Electrical Engineering", "BJT", "Op-Amp", "Component Integration", "Voltage Stability", "Resilient Output", "Practical Efficacy", "Time Management"],
+      category: "Electronics and Circuit Design",   
       member: [
           {
             name: "Azlaan Ranjha",
-            img: "https://drive.google.com/file/d/1_Jstrvqu9Fuv5bW-5NDyjkRgWt86ZZZL/view?usp=sharing",
+            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
             linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
           },
           {
               name: "Bilal Younas Chaudhary",
+              img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Bilal_Younas_Chaudhary.jpeg?raw=true", 
               linkedin: "https://www.linkedin.com/in/bilal-younas-chaudhary-069a22254/",
           },
           {
               name: "Rana Abdullah Azhar",
+              img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Rana_Abdullah_Azhar.jpeg?raw=true",  
               linkedin: "https://www.linkedin.com/in/abdullah-azhar-476699235/",
           },
       ],
@@ -910,22 +874,25 @@ export const projects = [
   {
       id: 30,
       title: "USB supporting Media Player with Video Support using C++ (with GUI)",
-      image: "linkedin.com/in/azlaan-ranjha-1b023a107/details/projects/1635530712373/single-media-viewer/?profileId=ACoAABrov5QBEGvvCFny84OznIMyNkP8NhCN85A",
       description:
-        "Developed a C++ program for drive connection analysis, storage capacity assessment, media sorting and playback, playlist management, and modern GUI design with video playback limitations in mind.",   
+        "Developed a C++ program for drive connection analysis, storage capacity assessment, media sorting and playback, playlist management, and modern GUI design with video playback limitations in mind.",
+      tags: ["Media Player", "C++", "GUI", "Drive Detection", "Storage Assessment", "Media Sorting", "Playback Engine", "Playlist Management", "User-Friendly GUI", "Video Playback Limitation", "Project Management", "Time Management"],
+      category: "Programming Projects",   
       github: "https://github.com/Azlaan20/GUI-Based-Music-Player",
       member: [
           {
             name: "Azlaan Ranjha",
-            img: "https://drive.google.com/file/d/1_Jstrvqu9Fuv5bW-5NDyjkRgWt86ZZZL/view?usp=sharing",
+            img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
             linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
           },
           {
               name: "Laiba Jabbar",
+              img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Laiba_Jabbar.jpeg?raw=true", 
               linkedin: "https://www.linkedin.com/in/laiba-jabbar-aa1a19233/",
           },
           {
               name: "Rana Abdullah Azhar",
+              img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Rana_Abdullah_Azhar.jpeg?raw=true",  
               linkedin: "https://www.linkedin.com/in/abdullah-azhar-476699235/",
           },
       ],
