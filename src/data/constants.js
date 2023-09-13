@@ -431,7 +431,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/NUST%20Logo.png?raw=true",
+    img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/icons/NUST%20Logo.jpeg?raw=true",
     school: "National University of Sciences and Technology (NUST)",
     date: "Nov 2021 - Aug 2025",
     grade: "3.25 CGPA",
