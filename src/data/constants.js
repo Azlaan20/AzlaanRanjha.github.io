@@ -17,7 +17,7 @@ export const Bio = {
     "As an aspirational Electrical Engineering student at NUST, I am steadfast in my pursuit of a comprehensive understanding of cutting-edge technologies.",
   github: "https://github.com/Azlaan20",
   resume:
-    "https://drive.google.com/file/d/1dueg6hl4oOf3C3v-V4UyqTVpCvh04U2k/view?usp=sharing",
+    "https://drive.google.com/file/d/1ax9Mhi---q93gnAoIwR8pioPFzN1gO8s/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
   kaggle: "https://www.kaggle.com/azlaanranjha",
   leetcode: "https://leetcode.com/azlaanranjha15/",
