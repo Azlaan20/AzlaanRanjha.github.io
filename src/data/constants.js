@@ -898,6 +898,129 @@ export const projects = [
       ],
   },
 
+  {
+    id: 31,
+    title: "Transistor-Based Discrete Audio Amplifier",
+    description:
+      "Designed and constructed a discrete audio amplifier circuit with a transistor-based design, achieving high-quality audio amplification and precise control over gain and frequency response.",
+    tags: ["Audio Amplifier", "Electronics", "Circuit Design", "Electrical Engineering", "Transistor-Based Design", "High-Quality Amplification", "Gain Control", "Frequency Response", "Time Management"],
+    category: "Electronics and Circuit Design",
+    member: [
+      {
+        name: "Azlaan Ranjha",
+        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
+        linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
+      },
+      {
+          name: "Laiba Jabbar",
+          img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Laiba_Jabbar.jpeg?raw=true", 
+          linkedin: "https://www.linkedin.com/in/laiba-jabbar-aa1a19233/",
+      },
+      {
+          name: "Rana Abdullah Azhar",
+          img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Rana_Abdullah_Azhar.jpeg?raw=true",  
+          linkedin: "https://www.linkedin.com/in/abdullah-azhar-476699235/",
+      },
+      {
+        name: "Bilal Younas Chaudhary",
+        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Bilal_Younas_Chaudhary.jpeg?raw=true", 
+        linkedin: "https://www.linkedin.com/in/bilal-younas-chaudhary-069a22254/",
+      },
+  ],
+  },
+
+  {
+    id: 32,
+    title: "Single-Phase Multi-Tap Step Up Transformer",
+    description:
+      "Designed and constructed a single-phase multi-tap step-up transformer with a variable turns ratio, achieving precise voltage control and efficient power transmission.",
+    tags: ["Transformer", "Electrical Engineering", "Circuit Design", "Voltage Control", "Power Transmission", "Time Management"],
+    category: "Electrical Engineering and Transformer Design",
+    member: [
+      {
+        name: "Azlaan Ranjha",
+        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
+        linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
+      },
+      {
+          name: "Laiba Jabbar",
+          img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Laiba_Jabbar.jpeg?raw=true", 
+          linkedin: "https://www.linkedin.com/in/laiba-jabbar-aa1a19233/",
+      },
+      {
+          name: "Rana Abdullah Azhar",
+          img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Rana_Abdullah_Azhar.jpeg?raw=true",  
+          linkedin: "https://www.linkedin.com/in/abdullah-azhar-476699235/",
+      },
+      {
+        name: "Bilal Younas Chaudhary",
+        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Bilal_Younas_Chaudhary.jpeg?raw=true", 
+        linkedin: "https://www.linkedin.com/in/bilal-younas-chaudhary-069a22254/",
+      },
+  ],
+  },
+
+  {
+    id: 33,
+    title: "MATLAB-Based Dynamic Audio Equaliser",
+    description:
+      "Developed a dynamic audio equaliser using MATLAB, achieving precise control over frequency response and audio quality enhancement.",
+    tags: ["Audio Equaliser", "MATLAB", "Audio Quality Enhancement", "Frequency Response", "Time Management"],
+    category: "Audio Engineering and MATLAB",
+    member: [
+      {
+        name: "Azlaan Ranjha",
+        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
+        linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
+      },
+      {
+          name: "Laiba Jabbar",
+          img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Laiba_Jabbar.jpeg?raw=true", 
+          linkedin: "https://www.linkedin.com/in/laiba-jabbar-aa1a19233/",
+      },
+      {
+          name: "Rana Abdullah Azhar",
+          img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Rana_Abdullah_Azhar.jpeg?raw=true",  
+          linkedin: "https://www.linkedin.com/in/abdullah-azhar-476699235/",
+      },
+      {
+        name: "Bilal Younas Chaudhary",
+        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Bilal_Younas_Chaudhary.jpeg?raw=true", 
+        linkedin: "https://www.linkedin.com/in/bilal-younas-chaudhary-069a22254/",
+      },
+  ],
+  },
+
+  {
+    id: 34,
+    title: "Battery Management System",
+    description:
+      "Designed and constructed a battery management system with precise voltage control and efficient power distribution.",
+    tags: ["Battery Management", "Electrical Engineering", "Circuit Design", "Voltage Control", "Power Distribution", "Time Management"],
+    category: "Electrical Engineering and Battery Management",
+    member: [
+      {
+        name: "Azlaan Ranjha",
+        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/src/images/HeroImage.jpg?raw=true",
+        linkedin: "https://www.linkedin.com/in/azlaan-ranjha-1b023a107/",
+      },
+      {
+          name: "Laiba Jabbar",
+          img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Laiba_Jabbar.jpeg?raw=true", 
+          linkedin: "https://www.linkedin.com/in/laiba-jabbar-aa1a19233/",
+      },
+      {
+          name: "Rana Abdullah Azhar",
+          img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Rana_Abdullah_Azhar.jpeg?raw=true",  
+          linkedin: "https://www.linkedin.com/in/abdullah-azhar-476699235/",
+      },
+      {
+        name: "Bilal Younas Chaudhary",
+        img: "https://github.com/Azlaan20/azlaanranjha.github.io/blob/main/members/Bilal_Younas_Chaudhary.jpeg?raw=true", 
+        linkedin: "https://www.linkedin.com/in/bilal-younas-chaudhary-069a22254/",
+      },
+  ],
+  }
 ];
 
 export const TimeLineData = [
